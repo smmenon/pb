@@ -1,7 +1,7 @@
 version: 0.1
 environment_variables:
     plaintext:
-        S3_BUCKET: "planbiz.com"
+        S3_BUCKET: "pberp.com"
         BUILD_ENV: "prod"
 phases:
     install:
